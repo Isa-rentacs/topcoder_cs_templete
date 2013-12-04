@@ -6,7 +6,7 @@ Templete and Script for C# in Topcoder
 templete.cs
  > Just copy and paste to the templete code for C# in Arena
 
-compile.ps1
+run.ps1
  > Use for local tests.
  > Before execute, type command "Set-ExecutionPolicy unrestricted" on PowerShell (with Administrator)
 
